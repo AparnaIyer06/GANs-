@@ -1,2 +1,2 @@
 # GANs
-A Repo for code related to Generative Adversarial Networks, popularly known as GANs. Building-block of programming for Generative AI.
+Programs on Generative Adversarial Networks, popularly known as GANs, an essential building-block for understanding Generative AI.
